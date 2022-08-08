@@ -8,6 +8,7 @@ My name is Bibiana and here are some facts about me:
 - I’m currently working on my React Would You Rather game. 
 - I´m currently learning React and started learning Vue.
 - I'm looking for feedback, so if you have time please do not hesitate and write me some comments. 
+- I'm a smart face
 
 ## &#x1f4c8; GitHub Stats
 
