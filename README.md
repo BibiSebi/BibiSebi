@@ -5,8 +5,8 @@
 
 My name is Bibiana and here are some facts about me:
 
-- I’m currently working on my React Would You Rather game. 
-- I´m currently learning React and started learning Vue.
+- I’m currently working on a Next A11y PoC including all the necessary setup (as far as possible) for an accessible project. 
+- I´m currently mainly working with Next.
 - I'm looking for feedback, so if you have time please do not hesitate and write me some comments. 
 
 ## &#x1f4c8; GitHub Stats
