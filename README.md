@@ -4,7 +4,7 @@ I'm currently working as a Fullstack Engineer at Storyblok. In my free time, I o
 
 👀 Open to Work: Always excited about new opportunities and collaborations.
 
-📖 Currently reading: Quit: The Power of Knowing When to Walk Away by Annie Duke.
+📖 Currently reading: Supercommunicators: How to Unlock the Secret Language of Connection by Charles Duhigg
 
 🍳 Cooking up: a new project—stay tuned!
 
